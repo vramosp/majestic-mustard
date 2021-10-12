@@ -27,7 +27,13 @@
                                 "label": "Email",
                                 "placeholder": "Your email",
                                 "width": "1/2"
-                            }   
+                            },
+                            {
+                                "type": "EmailFormControl",
+                                "label": "Email",
+                                "placeholder": "Your email",
+                                "width": "1/2"
+                            }
                             ]
                         }
                     }
