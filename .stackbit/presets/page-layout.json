@@ -20,7 +20,6 @@
                                 "type": "TextFormControl",
                                 "label": "Name",
                                 "placeholder": "Your name"
-
                             }
                                 
                             ]
