@@ -25,6 +25,10 @@
                         "subtitle": "Who we are",
                         "text": "Learn more about"
                     }
+                    {
+                        "type": "TextSection",
+                        "text": "Learn more about our team members."
+                    }
                 ]
             }
         }
