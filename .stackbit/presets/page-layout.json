@@ -13,10 +13,10 @@
                         "variant": "variant-a",
                         "topGap": "none",
                         "bottomGap": "none",
-                        "submitLabel"
                         "feature": {
                             "type": "FormBlock",
                             "idAttr": "contact-form",
+                            "submitLabel": 
                             "fields": [{
                                 "type": "TextFormControl",
                                 "label": "Name",
