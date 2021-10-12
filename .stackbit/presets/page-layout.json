@@ -22,7 +22,8 @@
                             "action": "/.netlify/functions/submission_created",
                             "fields":{
                                 "type": "TextFormControl",
-                                "label": "Home address"
+                                "label": "Home address",
+                                "placeHolder": "Your home address"
                                 
                             }
                         }
