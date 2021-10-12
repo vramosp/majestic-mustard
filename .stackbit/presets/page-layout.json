@@ -13,10 +13,7 @@
                         "variant": "variant-b",
                         "topGap": "none",
                         "bottomGap": "none"
-                    },
-                    {
-                        "type": "ContactSection",
-                        "text": "Fill out the form below and we will get in touch within 1 business day."                    }
+                    }
                 ]
             }
         },
