@@ -71,7 +71,8 @@
                         "type": "TextSection",
                         "text": "Learn more about our team members.\nLine two",
                         "topGap": "none",
-                        "bottomGap": "none"
+                        "bottomGap": "none",
+                        "contentAlignVert": "top",
                     }
                 ]
             }
