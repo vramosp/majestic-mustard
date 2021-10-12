@@ -2,7 +2,7 @@
     "model": "PageLayout",
     "presets": [{
             "label": "Contact us page",
-            "thumbnail": "images/contact-dark-image-r.png",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Contact us",
                 "sections": [
