@@ -25,7 +25,7 @@
                                 "type": "EmailFormControl",
                                 "label": "Email",
                                 "placeholder": "Your email"
-                            },    
+                            }   
                             ]
                         }
                     }
