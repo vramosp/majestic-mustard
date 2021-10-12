@@ -18,6 +18,7 @@
                             "idAttr": "contact-form",
                             "fields": {
                                 "type": "TextFormControl",
+                                "label": "Name",
                                 
                             }
                         }
