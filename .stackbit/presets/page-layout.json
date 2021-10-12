@@ -17,11 +17,12 @@
                             "type": "FormBlock",
                             "idAttr": "contact-form",
                             "fields": [{
-                                
-                            }
                                 "type": "TextFormControl",
                                 "label": "Name",
                                 "placeholder": "Your name"
+
+                            }
+                                
                             ]
                         }
                     }
