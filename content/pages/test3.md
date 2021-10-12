@@ -10,6 +10,8 @@ sections:
       altText: About us
       topGap: none
       bottomGap: none
+    text: |
+      This is some text
   - type: TextSection
     text: Learn more about our team members.
 layout: PageLayout
