@@ -1,0 +1,54 @@
+type: object
+name: CtaSection
+label: CTA section
+extends:
+  - Section
+groups:
+  - sectionComponent
+fieldGroups:
+  - name: styles
+    label: Styles
+  - name: settings
+    label: Settings
+fields:
+  - type: enum
+    name: variant
+    label: Arrangement
+    options:
+      - label: CTA with buttons at the bottom
+        value: variant-a
+      - label: CTA with buttons on the right
+        value: variant-b
+    default: variant-b
+  - type: string
+    name: title
+    label: Title
+    default: "Let's do this"
+  - type: markdown
+    name: text
+    label: Text
+    default: "The Stackbit theme is flexible and scalable to every need. It can manage any layout and any screen."
+  - type: list
+    name: actions
+    label: Actions
+    items:
+      type: model
+      models:
+        - Button
+        - Link
+    default:
+      - type: Button
+        label: Try it now
+        url: '/about'
+        style: primary
+  - type: model
+    name: backgroundImage
+    label: Background image
+    models:
+      - ImageBlock
+   - type: model
+    name: badge
+    label: Badge
+    group: styles
+    models:
+      - Badge

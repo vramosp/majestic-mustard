@@ -1,0 +1,121 @@
+type: object
+name: HeroSection
+label: Hero section
+extends:
+  - Section
+groups:
+  - sectionComponent
+fieldGroups:
+  - name: styles
+    label: Styles
+  - name: settings
+    label: Settings
+fields:
+  - name: colors
+    default: colors-f
+  - name: width
+    default: wide
+  - name: height
+    default: tall
+  - name: contentWidth
+    default: large
+  - name: contentAlignHoriz
+    default: center
+  - name: contentAlignVert
+    default: middle
+  - name: topGap
+    default: none
+  - name: bottomGap
+    default: none
+  - name: textAlign
+    default: left
+  - type: enum
+    name: variant
+    label: Arrangement
+    group: styles
+    options:
+      - label: Hero with feature on the right
+        value: variant-a
+      - label: Hero with feature on the left
+        value: variant-b
+      - label: Hero with feature at the top
+        value: variant-c
+      - label: Hero with feature at the bottom
+        value: variant-d
+    default: variant-a
+  - type: model
+    name: badge
+    label: Badge
+    group: styles
+    models:
+      - Badge
+  - type: string
+    name: title
+    label: Title
+    default: This Is A Big Hero Headline
+  - type: string
+    name: subtitle
+    label: Subtitle
+    default: This Is Subtitle
+  - type: markdown
+    name: text
+    label: Text
+    default: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+  - type: list
+    name: actions
+    label: Actions
+    items:
+      type: model
+      models:
+        - Button
+        - Link
+    default:
+      - type: Button
+        label: Get Started
+        url: '/'
+        style: primary
+        elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: '/'
+        style: secondary
+  - type: model
+    name: feature
+    label: Feature
+    models:
+      - FormBlock
+      - ImageBlock
+      - VideoBlock
+    default:
+      type: ImageBlock
+      url: /images/hero.png
+      altText: Hero section image
+  - type: model
+    name: backgroundImage
+    group: styles
+    label: Background image
+    models:
+      - ImageBlock
+  - type: style
+    name: styles
+    styles:
+      badge:
+        fontSize: ['x-small', 'small', 'medium', 'large']
+        fontWeight: ['300', '400', '500']
+        textAlign: ['left', 'center', 'right']
+      title:
+        fontSize: ['x-large', 'xx-large', 'xxx-large']
+        fontWeight: ['300', '400', '500']
+        textAlign: ['left', 'center', 'right']
+      subtitle:
+        fontSize: ['small', 'medium', 'large', 'x-large', 'xx-large']
+        fontWeight: ['300', '400', '500']
+        textAlign: ['left', 'center', 'right']
+      text:
+        fontSize: ['small', 'medium', 'large', 'x-large']
+        fontWeight: ['300', '400', '500']
+        textAlign: ['left', 'center', 'right']
