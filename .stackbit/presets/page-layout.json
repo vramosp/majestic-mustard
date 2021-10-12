@@ -35,7 +35,7 @@
                                 "width": "full"
                             },
                             {
-                                "type": "EmailFormControl",
+                                "type": "CheckboxFormControl",
                                 "label": "Email",
                                 "placeholder": "Your email",
                                 "width": "1/2"
