@@ -25,7 +25,7 @@
                         "subtitle": "Who we are",
                         "feature": {
                             "type": "ImageBlock",
-                            "url": "/images/post-1.jpeg",
+                            "url": "/images/about.jpeg",
                             "altText": "Product Marketing Manager Quote"
                         }
                     },
