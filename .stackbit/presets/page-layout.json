@@ -21,7 +21,11 @@
                                 "label": "Name",
                                 "placeholder": "Your name"
                             },
-                                
+                            {
+                                "type": "TextFormControl",
+                                "label": "Name",
+                                "placeholder": "Your name"
+                            },    
                             ]
                         }
                     }
