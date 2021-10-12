@@ -1,0 +1,30 @@
+{
+    "model": "PageLayout",
+    "presets": [{
+            "label": "Contact us page",
+            "thumbnail": "images/contact-dark-image-r.png",
+            "data": {
+                "title": "Contact us",
+                "sections": [
+                    {
+                        "type": "HeroSection",
+                        "title": "Contact Us"
+                    }
+                ]
+            }
+        },
+        {
+            "label": "About page",
+            "thumbnail": "images/contact-dark-image-l.png",
+            "data": {
+                "title": "About us",
+                "sections": [
+                    {
+                        "type": "HeroSection",
+                        "title": "About Us"
+                    }
+                ]
+            }
+        }
+    ]
+}
