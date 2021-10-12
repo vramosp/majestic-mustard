@@ -78,6 +78,7 @@
                         "colors": "colors-c",
                         "badge": "",
                         "actions":[{
+                            "type": "Button",
                             
                         }
 
