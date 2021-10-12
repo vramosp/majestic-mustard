@@ -74,6 +74,7 @@
                         "topGap": "none",
                         "bottomGap": "none",
                         "contentAlignVert": "top",
+                        "heigth": "short",
                         "variant": "variant-a",
                         "colors": "colors-c",
                         "badge": "",
