@@ -7,7 +7,7 @@
                 "title": "Contact us",
                 "sections": [
                     {
-                        "type": "ContactSection",
+                        "type": "HeroSection",
 
                     },
                     {
