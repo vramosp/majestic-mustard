@@ -13,6 +13,7 @@
                         "variant": "variant-a",
                         "topGap": "none",
                         "bottomGap": "none",
+                        "submitLabel"
                         "feature": {
                             "type": "FormBlock",
                             "idAttr": "contact-form",
