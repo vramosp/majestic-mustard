@@ -9,7 +9,7 @@
                     {
                         "type": "ContactSection",
                         "title": "Contact us",
-                        "text": "",
+                        "text": "Fill out the form below and we will get in touch within 1 business day.",
                         "variant": "variant-a",
                         "topGap": "none",
                         "bottomGap": "none",
