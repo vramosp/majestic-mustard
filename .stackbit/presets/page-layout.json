@@ -18,7 +18,7 @@
                         "variant": "variant-b",
                         "feature":{
                             "type": "FormBlock",
-                                    "idAttr": "contact-form",
+                            "idAttr": "contact-form",
                             "action": "/.netlify/functions/submission_created"
                         }
                     }
