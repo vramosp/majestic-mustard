@@ -15,7 +15,10 @@
                         "bottomGap": "none",
                         "feature": {
                             "type": "FormBlock",
-                            "idAttr": "contact-form"
+                            "idAttr": "contact-form",
+                            "fields": {
+                                
+                            }
                         }
                     }
                 ]
