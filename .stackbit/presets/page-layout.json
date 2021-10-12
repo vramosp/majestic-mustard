@@ -74,8 +74,8 @@
                         "bottomGap": "none",
                         "contentAlignVert": "top",
                         "variant": "variant-a",
-                "colors": "colors-c",
-                "badge": ""
+                        "colors": "colors-c",
+                        "badge": ""
                     }
                 ]
             }
