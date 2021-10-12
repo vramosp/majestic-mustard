@@ -25,7 +25,7 @@
                             {
                                 "type": "TextFormControl",
                                 "label": "Last name",
-                                "placeholder": "Your name",
+                                "placeholder": "Your last name",
                                 "width": "1/2"
                             },
                             {
