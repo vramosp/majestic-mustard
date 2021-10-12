@@ -76,7 +76,12 @@
                         "contentAlignVert": "top",
                         "variant": "variant-a",
                         "colors": "colors-c",
-                        "badge": ""
+                        "badge": "",
+                        "actions":[{
+                            
+                        }
+
+                        ]
                     }
                 ]
             }
