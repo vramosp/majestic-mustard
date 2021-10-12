@@ -24,7 +24,7 @@
                         "title": "About Us",
                         "subtitle": "Who we are",
                         "feature": {
-                            "Image"
+                            "type": "ImageBlock"
                         }
                     },
                     {
