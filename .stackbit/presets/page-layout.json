@@ -19,7 +19,8 @@
                             "fields": [{
                                 "type": "TextFormControl",
                                 "label": "Name",
-                                "placeholder": "Your name"
+                                "placeholder": "Your name",
+                                "width": "1/2"
                             },
                             {
                                 "type": "EmailFormControl",
