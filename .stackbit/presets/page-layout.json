@@ -36,7 +36,7 @@
                             },
                             {
                                 "type": "CheckboxFormControl",
-                                "label": "Email",
+                                "label": "Updates",
                                 "placeholder": "Your email",
                                 "width": "full"
                             }
