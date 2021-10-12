@@ -35,7 +35,7 @@
                     },
                     {
                         "type": "TextSection",
-                        "text": "Learn more about our team members."
+                        "text": "Learn more about our team members.\nLine two"
                     }
                 ]
             }
