@@ -14,7 +14,7 @@
                         "feature": {
                             "type": "ImageBlock",
                             "url": "/images/about.jpeg",
-                            "altText": "About us",
+                            "altText": "Contact us",
                             "topGap": "none",
                             "bottomGap": "none"
                         }
