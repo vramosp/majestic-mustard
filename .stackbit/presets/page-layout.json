@@ -37,7 +37,7 @@
                             {
                                 "type": "CheckboxFormControl",
                                 "label": "Updates",
-                                "placeholder": "Your email",
+                                "placeholder": "Sign me up to receive updates",
                                 "width": "full"
                             }
                             ]
