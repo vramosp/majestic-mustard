@@ -24,8 +24,7 @@
                         "type": "HeroSection",
                         "title": "About Us",
                         "subtitle": "Who we are",
-                                                "text": "does this work",
-
+                        "text": "does this work",
                         "feature": {
                             "type": "ImageBlock",
                             "url": "/images/about.jpeg",
