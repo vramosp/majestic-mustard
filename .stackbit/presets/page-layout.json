@@ -23,7 +23,9 @@
                         "type": "TextSection",
                         "title": "About Us",
                         "subtitle": "Who we are",
-                        "feature": {"Learn more about"
+                        "feature": {
+                            
+                        }
                     },
                     {
                         "type": "TextSection",
