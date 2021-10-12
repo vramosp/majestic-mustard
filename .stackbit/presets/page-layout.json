@@ -82,9 +82,6 @@
                             "label": "Learn more",
                             "url": "/",
                             "style": "primary"
-                            label: Try it now
-        url: '/about'
-        style: primary
                         }
                         ]
                     }
