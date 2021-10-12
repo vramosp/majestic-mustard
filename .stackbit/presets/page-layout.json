@@ -80,7 +80,8 @@
                         "actions":[{
                             "type": "Button",
                             "label": "Learn more",
-                            "url": "/"
+                            "url": "/",
+                            "style": "primary"
                             label: Try it now
         url: '/about'
         style: primary
