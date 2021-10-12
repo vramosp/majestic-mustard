@@ -28,7 +28,7 @@
                             "url": "/images/about.jpeg",
                             "altText": "About us",
                             "topGame": "none",
-                            "bottomGap": none
+                            "bottomGap": "none",
                         }
                     },
                     {
