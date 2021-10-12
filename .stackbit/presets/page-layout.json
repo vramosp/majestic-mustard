@@ -12,7 +12,8 @@
                         "subtitle": "Fill out the form below and we will get in touch within 1 business day.",
                         "feature": {
                             "type": "ImageBlock",
-                            
+                            "url": "/images/about.jpeg",
+                            "altText": "About us"
                         }
                     },
                     {
