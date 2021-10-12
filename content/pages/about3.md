@@ -11,7 +11,12 @@ sections:
       tools and platforms.
 
 
+
+
       ![](/images/about.jpeg)
+
+
+      ## ****
 
 
       ## **H2 Credentials**
@@ -26,6 +31,8 @@ sections:
       My 20 years of experience have taught me to effectively identify the
       audience for which I write, and explain complex concepts in a friendly and
       non-intimidating way.
+
+
 
 
       ## **H2 Writing for Action**
