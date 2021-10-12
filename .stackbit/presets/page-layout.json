@@ -13,7 +13,10 @@
                         "variant": "variant-b",
                         "topGap": "none",
                         "bottomGap": "none",
-                        "feature": "FormBlock"
+                        "feature": {
+                            "type": "FormBlock",
+                            
+                        }
                     }
                 ]
             }
