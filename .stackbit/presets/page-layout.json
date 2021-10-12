@@ -16,7 +16,7 @@
                         "feature": {
                             "type": "FormBlock",
                             "idAttr": "contact-form",
-                            "fields": {
+                            "fields": []
                                 "type": "TextFormControl",
                                 "label": "Name",
                                 "placeholder": "Your name"
