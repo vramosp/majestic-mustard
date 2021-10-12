@@ -23,8 +23,8 @@
                             },
                             {
                                 "type": "EmailFormControl",
-                                "label": "Name",
-                                "placeholder": "Your name"
+                                "label": "Email",
+                                "placeholder": "Your email"
                             },    
                             ]
                         }
