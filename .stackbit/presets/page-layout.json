@@ -15,7 +15,7 @@
             }
         },
         {
-            "label": "About page",
+            "label": "About",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "About us",
