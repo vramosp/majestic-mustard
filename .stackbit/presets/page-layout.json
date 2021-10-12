@@ -9,12 +9,13 @@
                     {
                         "type": "HeroSection",
                         "title": "Contact Us",
+                                                "text": "Fill out the form below and we will get in touch within 1 business day.",
+
 
                     },
                     {
                         "type": "ContactSection",
                         
-                        "text": "Fill out the form below and we will get in touch within 1 business day.",
                         "variant": "variant-a",
                         "topGap": "none",
                         "bottomGap": "none",
