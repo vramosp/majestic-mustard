@@ -79,7 +79,11 @@
                         "badge": "",
                         "actions":[{
                             "type": "Button",
-
+                            "label": "Learn more",
+                            "url"
+                            label: Try it now
+        url: '/about'
+        style: primary
                         }
                         ]
                     }
