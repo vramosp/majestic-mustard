@@ -20,7 +20,9 @@
                             "type": "FormBlock",
                             "idAttr": "contact-form",
                             "action": "/.netlify/functions/submission_created",
-                            "fields":
+                            "fields":{
+                                ""
+                            }
                         }
                     }
                 ]
