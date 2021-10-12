@@ -13,7 +13,6 @@
                     },
                     {
                         "type": "ContactSection",
-                        
                         "variant": "variant-a",
                         "topGap": "none",
                         "bottomGap": "none",
