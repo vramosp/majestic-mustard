@@ -26,7 +26,7 @@
                         "feature": {
                             "type": "ImageBlock"
                              "url": "/images/post-1.jpeg",
-                    "altText": "Product Marketing Manager Quote"
+                    "       altText": "Product Marketing Manager Quote"
                         }
                     },
                     {
