@@ -8,7 +8,8 @@
                 "sections": [
                     {
                         "type": "HeroSection",
-                        "title": "Contact Us",",
+                        "title": "Contact Us",
+                        "text"
                         "variant": "variant-b"
                     }
                 ]
