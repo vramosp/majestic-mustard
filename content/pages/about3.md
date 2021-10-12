@@ -14,9 +14,6 @@ sections:
       ![](/images/about.jpeg)
 
 
-      ##
-
-
       ## **Credentials**
 
 
@@ -29,8 +26,6 @@ sections:
       My 20 years of experience have taught me to effectively identify the
       audience for which I write, and explain complex concepts in a friendly and
       non-intimidating way.
-
-
 
 
       ## **Writing for Action**
