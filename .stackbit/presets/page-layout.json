@@ -19,12 +19,12 @@
                         "feature":{
                             "type": "FormBlock",
                             "title": "Contact us",
-                "text": "We look forward to hearing from you.",
-                "variant": "variant-b",
-                "colors": "colors-c",
-                "badge": "",
-                "idAttr": "contact-form",
-                "action": "/.netlify/functions/submission_created"
+                            "text": "We look forward to hearing from you.",
+                            "variant": "variant-b",
+                            "colors": "colors-c",
+                            "badge": "",
+                            "idAttr": "contact-form",
+                            "action": "/.netlify/functions/submission_created"
                         }
                     }
                 ]
