@@ -23,7 +23,9 @@
                         "type": "HeroSection",
                         "title": "About Us",
                         "subtitle": "Who we are",
-                        "featured": "Learn more about our team members."
+                        "featured":{
+                            
+                        }
                     },
                      {
                         "type": "TextSection",
