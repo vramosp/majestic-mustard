@@ -1,7 +1,7 @@
 {
     "model": "PageLayout",
     "presets": [{
-            "label": "Contact us page",
+            "label": "Contact age",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Contact us",
