@@ -40,8 +40,8 @@
                             "type": "ImageBlock",
                             "url": "/images/about.jpeg",
                             "altText": "About us",
-                        "topGap": "none",
-                    "bottomGap": "none"
+                            "topGap": "none",
+                            "bottomGap": "none"
                         }
                     },
                     {
