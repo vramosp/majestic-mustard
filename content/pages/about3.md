@@ -11,7 +11,10 @@ sections:
       tools and platforms.
 
 
-      **H2 Credentials**
+      ![](/images/about.jpeg)
+
+
+      ## **H2 Credentials**
 
 
       I have a BA in English Literature and an MBA in Marketing from the
@@ -25,7 +28,7 @@ sections:
       non-intimidating way.
 
 
-      **H2 Writing for Action**
+      ## **H2 Writing for Action**
 
 
       I believe that each and every piece of writing should inspire an action
