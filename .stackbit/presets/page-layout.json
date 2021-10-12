@@ -17,6 +17,7 @@
                             "type": "FormBlock",
                             "idAttr": "contact-form",
                             "fields": {
+                                "type": "TextFormControl",
                                 
                             }
                         }
