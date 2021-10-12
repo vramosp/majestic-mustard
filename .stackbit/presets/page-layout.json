@@ -66,6 +66,13 @@
                             "url": "/images/about.jpeg",
                             "altText": "About us"
                         }
+                    },
+                    {
+                        "type": "CtaSection",
+                        "text": "Learn more about our team members.\nLine two",
+                        "topGap": "none",
+                        "bottomGap": "none",
+                        "contentAlignVert": "top"
                     }
                 ]
             }
