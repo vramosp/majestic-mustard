@@ -8,6 +8,8 @@
                 "sections": [
                     {
                         "type": "ContactSection",
+                        "title": "Contact us",
+                        "text": "",
                         "variant": "variant-a",
                         "topGap": "none",
                         "bottomGap": "none",
