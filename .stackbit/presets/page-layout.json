@@ -13,6 +13,7 @@
                         "variant": "variant-a",
                         "topGap": "none",
                         "bottomGap": "none",
+                        "contentAlignVert": "top",
                         "feature": {
                             "type": "FormBlock",
                             "action": "/.netlify/functions/submission_created",
