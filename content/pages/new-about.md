@@ -33,5 +33,6 @@ sections:
         label: Learn more
         url: /
         style: primary
+    height: tall
 layout: PageLayout
 ---
