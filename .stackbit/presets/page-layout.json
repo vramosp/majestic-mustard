@@ -22,7 +22,8 @@
                     {
                         "type": "TextSection",
                         "title": "About Us",
-                        "text": "This is a text\nthis is a test"
+                        "text": "This is a text\n
+                        this is a test"
                     }
                 ]
             }
