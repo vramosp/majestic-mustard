@@ -79,9 +79,8 @@
                         "badge": "",
                         "actions":[{
                             "type": "Button",
-                            
-                        }
 
+                        }
                         ]
                     }
                 ]
