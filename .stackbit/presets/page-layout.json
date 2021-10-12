@@ -16,7 +16,7 @@
         },
         {
             "label": "About page",
-            "thumbnail": "images/about.jpeg",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "About us",
                 "sections": [
