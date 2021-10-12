@@ -9,7 +9,6 @@
                     {
                         "type": "HeroSection",
                         "title": "Contact Us",
-                        "text": "does this work",
                         "variant": "variant-b"
                     }
                 ]
@@ -25,6 +24,8 @@
                         "type": "HeroSection",
                         "title": "About Us",
                         "subtitle": "Who we are",
+                                                "text": "does this work",
+
                         "feature": {
                             "type": "ImageBlock",
                             "url": "/images/about.jpeg",
