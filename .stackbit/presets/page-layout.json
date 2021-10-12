@@ -23,7 +23,7 @@
                         "type": "HeroSection",
                         "title": "About Us",
                         "subtitle": "Who we are",
-                        "ImageBlock": {
+                        "feature": {
                             "url": "images/about.jpeg"
                         }
                     },
