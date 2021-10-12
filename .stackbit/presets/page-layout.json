@@ -23,8 +23,7 @@
                             "fields":{
                                 "type": "TextFormControl",
                                 "label": "Home address",
-                                "placeHolder": "Your home address"
-                                
+                                "placeHolder": "Your home address"                                
                             }
                         }
                     }
