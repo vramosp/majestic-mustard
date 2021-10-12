@@ -15,6 +15,7 @@
                         "bottomGap": "none",
                         "feature": {
                             "type": "FormBlock",
+                            "action": "/.netlify/functions/submission_created",
                             "idAttr": "contact-form",
                             "submitLabel": "Send",
                             "fields": [{
