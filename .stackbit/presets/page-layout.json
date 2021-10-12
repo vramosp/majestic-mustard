@@ -68,7 +68,8 @@
                         }
                     },
                     {
-                        "type": "Careers",
+                        "type": "CtaSection",
+                        "type": "HeroSection",
                         "text": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
                         "topGap": "none",
                         "bottomGap": "none",
