@@ -26,8 +26,9 @@
                         "feature": {
                             "type": "ImageBlock",
                             "url": "/images/about.jpeg",
-                            "altText": "About us"
+                            "altText": "About us",
                             "topGame": "none"
+                            "bottomGap"
                         }
                     },
                     {
