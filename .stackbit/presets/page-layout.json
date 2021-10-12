@@ -17,7 +17,14 @@
                         "text": "Fill out the form below and we will get in touch within 1 business day.",
                         "variant": "variant-b",
                         "feature":{
-                            "type": "FormBlock"
+                            "type": "FormBlock",
+                            "title": "Contact us",
+                "text": "We look forward to hearing from you.",
+                "variant": "variant-b",
+                "colors": "colors-c",
+                "badge": "",
+                "idAttr": "contact-form",
+                "action": "/.netlify/functions/submission_created"
                         }
                     }
                 ]
