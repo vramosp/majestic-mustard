@@ -21,7 +21,8 @@
                 "sections": [
                     {
                         "type": "TextSection",
-                        "title": "About Us"
+                        "title": "About Us",
+                        
                     }
                 ]
             }
