@@ -21,7 +21,8 @@
                             "idAttr": "contact-form",
                             "action": "/.netlify/functions/submission_created",
                             "fields":{
-                                "TextFormControl"
+                                "type": "TextFormControl",
+                                
                             }
                         }
                     }
