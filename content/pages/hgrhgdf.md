@@ -32,6 +32,6 @@ sections:
         label: Learn more
         url: /
         style: primary
-    height: viewport
+    height: short
 layout: PageLayout
 ---
