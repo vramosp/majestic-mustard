@@ -16,7 +16,7 @@
                         "feature": {
                             "type": "FormBlock",
                             "idAttr": "contact-form",
-                            "submitLabel": "Send"
+                            "submitLabel": "Send",
                             "fields": [{
                                 "type": "TextFormControl",
                                 "label": "Name",
