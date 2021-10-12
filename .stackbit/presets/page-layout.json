@@ -13,11 +13,7 @@
                         "variant": "variant-b",
                         "topGap": "none",
                         "bottomGap": "none",
-                        "feature": {
-                            "type": "ImageBlock",
-                            "url": "/images/about.jpeg",
-                            "altText": "Contact us"
-                        }
+                        
                     },
                     {
                         "type": "ContactSection",
