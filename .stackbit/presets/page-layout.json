@@ -15,21 +15,15 @@
         },
         {
             "label": "About page",
-            "thumbnail": "images/about.jpeg",
+            "thumbnail": "images/contact-dark-image-l.png",
             "data": {
                 "title": "About us",
                 "sections": [
                     {
-                        "type": "HeroSection",
+                        "type": "TextSection",
                         "title": "About Us",
                         "subtitle": "Who we are",
-                        "featured":{
-                            "url": "images/about.jpeg",
-                        }
-                    },
-                    {
-                        "type": "TextSection",
-                        "text": "Learn more about our team members."
+                        "text": "Learn more about"
                     }
                 ]
             }
